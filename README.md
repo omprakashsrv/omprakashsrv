@@ -1,7 +1,7 @@
 # Hi, I'm Omprakash Seervi 👋
 
 **Tech Lead / Software Engineer** · Back-end Development · Technical Leadership · Solution Architecture
-📍 Bengaluru, India · 📫 omprakashsrv@gmail.com
+📍 Bengaluru, India
 
 I have about 12 years of experience building back-end systems for FinTech, Retail and Enterprise. I design and ship scalable, secure, high-performance systems: microservices, event-driven architectures, cloud-native platforms on AWS and multi-tenant SaaS.
 
@@ -11,7 +11,10 @@ I currently lead a team of engineers at **[Digio](https://www.digio.in)**. We bu
 
 ## 🚀 What I'm working on
 
-- **[Ampairs](https://github.com/omprakashsrv/ampairs)** *(open source, 2025 – present)*: a multi-tenant business management platform with CRM, inventory, orders, invoicing and payments.
+- **[Ampairs](https://github.com/omprakashsrv/ampairs)** *(personal project, source-available, 2025 – present)*: a multi-tenant business management platform with CRM, inventory, orders, invoicing and payments.
+  - Spring Boot 4 / Java 21 / Kotlin modular monolith with 25 domain modules, workspace-based multi-tenancy, device-aware JWT auth and Flyway migrations
+  - Event-driven integration with Kafka (dead-letter queues, automatic fallback to an in-memory broker), plus Testcontainers integration tests, Ansible provisioning and GitHub Actions CI/CD
+  - Spec-driven, AI-native development workflow (Spec Kit, CLAUDE.md / AGENTS.md), plus an on-device AI assistant module with text-to-SQL
   - Back-end: [`ampairs`](https://github.com/omprakashsrv/ampairs) (Spring Boot + Kotlin)
   - Mobile/Desktop: [`ampairs-app`](https://github.com/omprakashsrv/ampairs-app) (Kotlin Multiplatform + Compose Multiplatform, offline-first)
   - Web: [`ampairs-web`](https://github.com/omprakashsrv/ampairs-web) (Angular + Material 3)
