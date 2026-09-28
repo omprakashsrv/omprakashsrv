@@ -26,5 +26,3 @@ I've spent ~12 years building backend platforms, reusable SDKs and multi-platfor
 | [ampairs](https://github.com/omprakashsrv/ampairs) | Multi-tenant business platform back end: orders, invoices, inventory, CRM, GST tax engine (Spring Boot, Kotlin) |
 | [ampairs-app](https://github.com/omprakashsrv/ampairs-app) | Offline-first Compose Multiplatform app for Android, iOS and Desktop |
 | [ampairs-web](https://github.com/omprakashsrv/ampairs-web) | Angular web client for the Ampairs platform |
-
-*Ampairs is source-available under the PolyForm Noncommercial License.*
