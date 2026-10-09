@@ -13,15 +13,11 @@ I've spent ~12 years building backend platforms, reusable SDKs and multi-platfor
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · Kotlin · Go · TypeScript
-
-**Backend:** Spring Boot · Spring WebFlux · Hibernate/JPA · R2DBC · REST · GraphQL
-
-**Data:** PostgreSQL · MySQL · TiDB · MongoDB · Flyway
-
-**Cloud & DevOps:** AWS · Docker · Testcontainers · Ansible · GitHub Actions · Grafana · Prometheus
-
-**Mobile & Web:** Android · Kotlin Multiplatform · Compose Multiplatform · Angular
+- **Languages:** Java · Kotlin · Go · TypeScript
+- **Backend:** Spring Boot · Spring WebFlux · Hibernate/JPA · R2DBC · REST · GraphQL
+- **Data:** PostgreSQL · MySQL · TiDB · MongoDB · Flyway
+- **Cloud & DevOps:** AWS · Docker · Testcontainers · Ansible · GitHub Actions · Grafana · Prometheus
+- **Mobile & Web:** Android · Kotlin Multiplatform · Compose Multiplatform · Angular
 
 ### 📂 Featured Projects
 
